@@ -28,4 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto realizado no Stage 05, na plataforma da Rocketseat para consolidar conhecimentos adquiridos sobre JavaScript no HTML e DOM.
 
-- [Visite o projeto online](https://rafaeldsal.github.io/desafio-html-stage03/)
+- [Visite o projeto online](https://rafaeldsal.github.io/biscoito-da-sorte/)
